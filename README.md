@@ -1,4 +1,4 @@
-# Kişisel Web Sitesi
+# İnsan Kaynakları Yönetim sistemi
 Üniversite 3. sınıf 1. dönem - Yazılım geliştirme lab dersi projesi.
 
 <div id="top"></div>
