@@ -32,4 +32,4 @@ Buradaki amaç C# form ekranında kullanılabilirliği arttırmak ve dosya yapı
 [issues-shield]: https://img.shields.io/github/issues/EnesGelmez/IK_Yonetim_Sistemi.svg?style=for-the-badge
 [issues-url]: https://github.com/EnesGelmez/IK_Yonetim_Sistemi/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/enes-gelmez-514397197/
+[linkedin-url]: https://www.linkedin.com/in/enesgelmez/
